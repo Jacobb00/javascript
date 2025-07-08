@@ -21,3 +21,6 @@ let d = '5';
 console.log(cc== d);  // true, çünkü == sadece değerleri karşılaştırır, tip önemsenmez
 console.log(cc === d); // false, çünkü === hem değer hem de tip karşılaştırır, burada tipler farklı (number ve string)
 
+
+
+

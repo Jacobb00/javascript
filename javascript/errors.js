@@ -17,3 +17,12 @@ try {
     console.log("Hata:", e.message);  // 18 yaşından küçükler giriş yapamaz.
   }
   
+
+  /**arayıcı Geliştirici Araçları (F12)
+
+    Console sekmesi: console.log, console.error, console.warn mesajlarını gösterir.
+
+    Sources sekmesi: Kodları adım adım izlemek, breakpoint koymak için kullanılır.
+
+    Network sekmesi: API çağrılarının başarılı olup olmadığını kontrol etmek için.
+     */
