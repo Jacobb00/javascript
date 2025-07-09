@@ -19,3 +19,15 @@ Yani:
       
       işle();
       
+
+      /**erçek Hayattan Benzerlik
+
+Diyelim ki pizza siparişi verdin:
+
+    Promise: Pizzacı "15 dakika içinde getiririm" diye söz veriyor.
+
+    then(): Pizza gelirse “Afiyet olsun” diyorsun.
+
+    catch(): Pizza gelmezse “Niye gelmedi?” diyorsun.
+
+    async/await: Sen pizzayı bekliyorsun, sonra yemeye başlıyorsun. */ 
