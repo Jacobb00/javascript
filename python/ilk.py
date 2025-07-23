@@ -24,7 +24,9 @@ Example"""
 
 if 5 > 2:
      print("5 2 den büyüktür")
-     print("5 2 den büyüktür")
+     print("5 2 den büyüktür")    ## if koşulu altındaki kod blokları aynı hızada olmalı 
+
+
 
 
 
