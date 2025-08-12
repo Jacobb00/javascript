@@ -1,5 +1,7 @@
 import socket
 
 ## IP adresini çöz
-ip = socket.gethostbyname("google.com")
+ip = socket.gethostbyname("elektraweb.com")
 print(ip)
+
+
